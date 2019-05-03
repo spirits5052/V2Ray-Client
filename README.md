@@ -1,1 +1,1 @@
-V2Ray客户端下载，请根据你的系统下载软件。
+V2Ray Client For MacOS
